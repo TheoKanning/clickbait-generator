@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 glove*.txt
 *.gz
+*.h5
