@@ -39,3 +39,4 @@ The model's current architecture is a two-layer LSTM, with 512 units each and a 
 
 Inspired by Lars Eidnes' [blog post](https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)  
 "Stop Clickbait: Detecting and Preventing Clickbaits in Online News Media" [link](https://github.com/bhargaviparanjape/clickbait)
+Excellent RNN intro by Andrej Karpathy [link](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
