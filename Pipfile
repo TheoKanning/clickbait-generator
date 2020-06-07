@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 requests = "*"
-tensorflow = "~=2.2.0"
+tensorflow = "~=2.1"
 notebook = "*"
 pip = "*"
 matplotlib = "*"
