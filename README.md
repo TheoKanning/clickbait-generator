@@ -24,15 +24,14 @@ Taken from the paper "Stop Clickbait: Detecting and Preventing Clickbaits in Onl
 
 ## Model
 ### Word Embeddings
-This model uses the 100-dimensional GloVe word embeddings [link](https://nlp.stanford.edu/projects/glove/)  
+This model trains its own 10-dimensional embeddings.
 
 ### Architecture
-The model's current architecture is a two-layer LSTM, with 512 units each and a 20% dropout rate.
+The model's current architecture is a one-layer LSTM with 256 units and a 20% dropout rate.
 
 ## Further Work
-- Use fuzzy matching to find word embeddings
 - Get more data
-- Train word embeddings
+- Replace all this with a transformer
 
 
 ## Sources
