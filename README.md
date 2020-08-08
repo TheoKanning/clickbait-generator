@@ -27,7 +27,7 @@ Taken from the paper "Stop Clickbait: Detecting and Preventing Clickbaits in Onl
 This model trains its own 10-dimensional embeddings.
 
 ### Architecture
-The model's current architecture is a one-layer LSTM with 256 units and a 20% dropout rate.
+The model's current architecture is a two-layer LSTM with 256 units and a 20% dropout rate.
 
 ## Further Work
 - Get more data
